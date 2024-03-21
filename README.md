@@ -1,4 +1,4 @@
-### <div align="center">I'm Srikrupa HD, a full-time full-stack  and data science developer 👨‍💻 working remotely since 2023🚀<img align="right" alt="Coding" width="400" src="https://tenor.com/en-GB/view/coding-gif-4706460855862906629"></div>  
+<div align="center">I'm Srikrupa HD, a full-time full-stack  and data science developer 👨‍💻 working remotely since 2022🚀</div>  
 
   
 
