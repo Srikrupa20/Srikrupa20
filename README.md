@@ -1,4 +1,6 @@
-###     <div align="center">I'm Srikrupa HD, a full-time full-stack  and data science developer 👨‍💻 working remotely since 2022🚀</div>  
+###     <div align="center">I'm Srikrupa HD, 
+a full-time full-stack  and data science developer 👨‍💻
+working remotely since 2022🚀</div>  
 
   
 
